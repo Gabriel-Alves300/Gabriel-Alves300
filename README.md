@@ -1,5 +1,5 @@
 ## Olá, meu nome é Gabriel Alves e falarei um pouco sobre mim.
-Sou um estudante do 1º ano do ensino médio de escola pública, no momento estou tentando aprender o básico de HTML e CSS e pretendo aprender Javascript. Futuramente quero ser desenvolvedor de software fullstack e estarei colocando aqui os projetos que irei fazer durante essa caminhada.
+Sou um estudante do 1º ano do ensino médio de escola pública, no momento estou tentando aprender o básico de HTML e CSS e pretendo aprender Javascript. Futuramente pretendo fazer Ciência da Computação e quero ser desenvolvedor de software fullstack e estarei colocando aqui os projetos que irei fazer durante essa caminhada.
 
 <!--
 **Gabriel-Alves300/Gabriel-Alves300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
